@@ -1,0 +1,5 @@
+{
+  "name": "iyn-monorepo",
+  "private": true,
+  "workspaces": ["apps/*"]
+}
